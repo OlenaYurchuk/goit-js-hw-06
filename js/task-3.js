@@ -1,5 +1,3 @@
-'use strict';
-
 class StringBuilder {
     #value;
     constructor(value) {

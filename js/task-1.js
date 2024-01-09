@@ -1,5 +1,3 @@
-'use strict';
-
 const customer = {
   username: "Mango",
   balance: 24000,
